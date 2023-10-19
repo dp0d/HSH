@@ -1,2 +1,2 @@
 # HSH
-Implementation of the proposed method in emnlp2023
+Implementation of the proposed method in coling-2024
